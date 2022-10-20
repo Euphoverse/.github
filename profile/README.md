@@ -6,7 +6,7 @@
  * [Euphoverse Discord](https://join.euphoverse.ru) - Русскоязычный дискорд сервер посвящённый Аниме, Манге и Геймингу
  * [Shikimori Bot](https://github.com/Euphoverse/ShikimoriBot) - Бот, разработанный спецаильно для сервера Euphoverse Discord
  * Euphoverse SMP - Приватный сервер майнкрафт с уникальными плагинами, которые мы разрабатываем сами
- * Shichimiya Satone Bot (aka. Satone Bot) - Coming soon :>
+ * Siesta Bot - Coming soon :>
 
 
 ### Наша команда
