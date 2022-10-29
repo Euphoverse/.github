@@ -12,7 +12,6 @@
 ### Наша команда
  * <img src="https://avatars.githubusercontent.com/u/85202150" height=16> [JustLian](https://justlian.com) - Основатель Euphovese Team, разработчик (Python/GoLang)
  * <img src="https://avatars.githubusercontent.com/u/114665857" height=16> [Filo](https://github.com/Filo6699) - Разработчик (JS/Python)
- * <img src="https://avatars.githubusercontent.com/u/78641479" height=16> [rixxie](https://github.com/rixxieq) - Разработчик (Python)
  * <img src="https://avatars.githubusercontent.com/u/103432581" height=16> [EnzanFox](https://github.com/EnzanTheFox2) - 3Д Модели
 
 <p align="center"><a align="center" href="https://discord.gg/AjqX5PB3Uj"><img src="https://discord.com/api/guilds/981818711608524830/widget.png" alt="Discord invite"></a></p
